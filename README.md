@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Asm3515.Asm3515" />
+<img align="right" src="\https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAsm3515%2FAsm3515&label=Hello%20Watcher%20Number&labelColor=%23dce775&countColor=%23263759" />
 
 <!--
 **Asm3515/Asm3515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
