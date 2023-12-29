@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ajinkya+More!;" />
 </h1>
 
-<h3 align="center">:octocat: Short Story -  I am an part time Robotics Enigneer and full time CS student at Purdue University</h3>
+<h3 align="center">:octocat: Short Story -  I am an part time Robotics Engineer and full time CS student at Purdue University</h3>
 
 <div align="center">
  
