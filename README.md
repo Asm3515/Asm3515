@@ -47,9 +47,35 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Asm3515/Asm3515/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
 <hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+<img width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=asm3515&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="asm3515" />
+
+<img width=390  src="https://github-readme-stats.vercel.app/api?username=asm3515&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="asm3515" />
+<br/>
+<img width=390  src="https://github-readme-streak-stats.herokuapp.com/?user=asm3515&theme=react&border_radius=10" alt="asm3515" />
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+
+<div align="center">
+  <p>**Thank You and Come Back for More Updates!**</p>
+</div>
+
+
+
+<br/>
+
