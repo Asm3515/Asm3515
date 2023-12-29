@@ -72,7 +72,7 @@
 
 
 <div align="center">
-  <p>**Thank You and Come Back for More Updates!**</p>
+  <p><h3>👋 Thank You and Come Back for More Updates!</h3></p>
 </div>
 
 
