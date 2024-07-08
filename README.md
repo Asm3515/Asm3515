@@ -78,4 +78,25 @@
 
 
 <br/>
+<hr/>
 
+<h2 align="center">🚀 Skills 🚀</h2>
+<br>
+<div align="center">
+  <h3>Machine Learning</h3>
+  <p>Pytorch, scikit-learn, Keras, Skorch, NumPy, Pandas, Matplotlib, Seaborn, MLflow</p>
+  
+  <h3>Data Engineering</h3>
+  <p>Apache Kafka, Apache Cassandra, MongoDB, Amazon S3, Amazon Redshift, Apache Airflow, Pydantic, Tableau</p>
+  
+  <h3>Fullstack Development</h3>
+  <p>ReactJs, NextJs, TailwindCSS, Flask, Django, PostgreSQL, MySQL</p>
+  
+  <h3>Deployment, Scaling and Version Control</h3>
+  <p>Docker, Kubernetes, Git, GitHub, Jira</p>
+  
+  <h3>Cloud Platforms</h3>
+  <p>Amazon Web Services (AWS), Google Cloud Platform (GCP)</p>
+</div>
+
+<hr/>
