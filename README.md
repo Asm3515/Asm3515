@@ -4,43 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ajinkya+More!;" />
 </h1>
 
-<h3 align="center">:octocat: Short Story -  I am an part time Robotics Engineer and full time CS student at Purdue University</h3>
-
-<div align="center">
- 
- 🔭 I’m currently working on **My Masters Degree Obviously** :smirk:
- 
- 🌱 I’m learning **everything related to Computer Science** currently
- 
- 💁 Ask me about **anything you want [here](https://github.com/Asm3515/Asm3515/issues)**
-
- 🤔 I’m looking for help with **Internships for Spring Break 2024**
- 
- ⚡ Fun fact **I love drinking coffee but my girlfriend won't let me 😓, so buy me one!**
-
-</div>
-
-<div align="center"> 
-  <a href="mailto:ajinkya.more3515@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/ajinkyasmore" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-
-</div>
-
-
- <hr/>
-
- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,git,r,postman,raspberrypi" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,firebase,mongodb,mysql" /><br>
-</div>
-<br/>
-<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -52,15 +15,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-<img width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=asm3515&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="asm3515" />
 
-<img width=390  src="https://github-readme-stats.vercel.app/api?username=asm3515&show_icons=true&locale=en&theme=react&rank_icon=github&border_radius=10" alt="asm3515" />
-<br/>
-<img width=390  src="https://github-readme-streak-stats.herokuapp.com/?user=asm3515&theme=react&border_radius=10" alt="asm3515" />
-</div>
 
 <br/><br/>
 
@@ -78,23 +33,4 @@
 <br/>
 <hr/>
 
-<h2 align="center">🚀 Skills 🚀</h2>
-<br>
-<div align="center">
-  <h3>Machine Learning</h3>
-  <p>Pytorch, scikit-learn, Keras, Skorch, NumPy, Pandas, Matplotlib, Seaborn, MLflow</p>
-  
-  <h3>Data Engineering</h3>
-  <p>Apache Kafka, Apache Cassandra, MongoDB, Amazon S3, Amazon Redshift, Apache Airflow, Pydantic, Tableau</p>
-  
-  <h3>Fullstack Development</h3>
-  <p>ReactJs, NextJs, TailwindCSS, Flask, Django, PostgreSQL, MySQL</p>
-  
-  <h3>Deployment, Scaling and Version Control</h3>
-  <p>Docker, Kubernetes, Git, GitHub, Jira</p>
-  
-  <h3>Cloud Platforms</h3>
-  <p>Amazon Web Services (AWS), Google Cloud Platform (GCP)</p>
-</div>
 
-<hr/>
